@@ -1,0 +1,9 @@
+:root {
+  --background-colour-body: #ffffff;
+  --background-colour-footer: #000000;
+  --text-colour-footer: #e6b400;
+  --background-colour-header: #f99d26;
+  --text-colour-logo: #ffdb58;
+  --text-colour-nav-link: #e6b400;  
+  --text-colour-nav-hover: #ffffff;
+}
